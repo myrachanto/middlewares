@@ -1,4 +1,4 @@
-module github.com/myrachanto/settings/middlewares
+module github.com/myrachanto/middlewares
 
 go 1.16
 
